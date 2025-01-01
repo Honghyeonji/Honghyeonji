@@ -2,6 +2,17 @@
 
 
 ### 💡 Tech Stack
+#### Primary Stack
+<a href="https://legacy.reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-282c34?style=flat&logo=React&logoColor=61DAFB"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-282c34?style=flat&logo=React&logoColor=61DAFB"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeSCript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff"/></a>
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/></a>
+<a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/></a>
+<a href="https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=ffffff"/></a>
+<a href="https://tanstack.com/query/latest" target="_blank"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=ffffff"/></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/Zustand-433E38?style=flat"/></a>
+
 #### FrontEnd
 
 <a href="https://legacy.reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-282c34?style=flat&logo=React&logoColor=61DAFB"/></a>
