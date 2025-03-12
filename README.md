@@ -13,24 +13,6 @@
 <a href="https://tanstack.com/query/latest" target="_blank"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=ffffff"/></a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/Zustand-433E38?style=flat"/></a>
 
-#### FrontEnd
-
-<a href="https://legacy.reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-282c34?style=flat&logo=React&logoColor=61DAFB"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-282c34?style=flat&logo=React&logoColor=61DAFB"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeSCript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff"/></a>
-<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/></a>
-<a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/></a>
-<a href="https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/></a>
-<a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=Styled-Components&logoColor=ffffff"/></a> 
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=ffffff"/></a>
-<a href="https://tanstack.com/query/latest" target="_blank"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=ffffff"/></a>
-<a href="https://axios-http.com/kr/docs/intro" target="_blank"><img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=ffffff"/></a>
-<a href="https://recoiljs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=ffffff"/></a>
-<a href="https://relay.dev/" target="_blank"><img src="https://img.shields.io/badge/Relay-F26B00?style=flat&logo=relay&logoColor=ffffff"/></a>
-<a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff"/></a>
-<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/Zustand-433E38?style=flat"/></a>
-<a href="https://storybook.js.org/" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=ffffff"/></a>
-
 #### Backend
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/></a>
