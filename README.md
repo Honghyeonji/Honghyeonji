@@ -36,3 +36,7 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honghyeonji&show_icons=true&theme=radical)
+
+### 📝POST
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hyeonji8436)](https://velog.io/@hyeonji8436)
